@@ -1,7 +1,7 @@
 # ERC20-TST
 Ethereum ERC-20 Test Standard Token (TST)
 
-For testing of ERC-20 token apps. Create free TST by calling `function showMeTheMoney(address _to, uint256 _value)`.
+For testing of ERC-20 token apps. Create free TST by calling `showMeTheMoney(address _to, uint256 _value)`.
 
 Available at:
 
