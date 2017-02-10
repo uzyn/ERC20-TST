@@ -5,7 +5,8 @@ For testing of ERC-20 token apps. Create free TST by calling `showMeTheMoney(add
 
 Available at:
 
-- Ropsten testnet: [0x722dd3f80bac40c951b51bdd28dd19d435762180](https://testnet.etherscan.io/tx/0x722dd3f80bac40c951b51bdd28dd19d435762180)
+- Mainnet: [0x3efd578b271d034a69499e4a2d933c631d44b9ad](https://etherscan.io/address/0x3efd578b271d034a69499e4a2d933c631d44b9ad)
+- Ropsten testnet: [0x722dd3f80bac40c951b51bdd28dd19d435762180](https://testnet.etherscan.io/address/0x722dd3f80bac40c951b51bdd28dd19d435762180)
 
 ### Interface
 
