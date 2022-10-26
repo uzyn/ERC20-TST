@@ -8,6 +8,7 @@ Available at:
 - Mainnet: [0x3efd578b271d034a69499e4a2d933c631d44b9ad](https://etherscan.io/address/0x3efd578b271d034a69499e4a2d933c631d44b9ad)
 - Ropsten testnet: [0x722dd3f80bac40c951b51bdd28dd19d435762180](https://ropsten.etherscan.io/address/0x722dd3f80bac40c951b51bdd28dd19d435762180)
 - Kovan testnet: [0x0fff93a556a91a907165BfB6a6C6cAC695FC33F5](https://kovan.etherscan.io/address/0x0fff93a556a91a907165BfB6a6C6cAC695FC33F5)
+- Goerli testnet: [0x45843aF56Aa1057eD1730cA5Ba3F709833900E77](https://goerli.etherscan.io/address/0x45843af56aa1057ed1730ca5ba3f709833900e77)
 
 ### Interface
 
