@@ -9,6 +9,7 @@ Available at:
 - Ropsten testnet: [0x722dd3f80bac40c951b51bdd28dd19d435762180](https://ropsten.etherscan.io/address/0x722dd3f80bac40c951b51bdd28dd19d435762180)
 - Kovan testnet: [0x0fff93a556a91a907165BfB6a6C6cAC695FC33F5](https://kovan.etherscan.io/address/0x0fff93a556a91a907165BfB6a6C6cAC695FC33F5)
 - Goerli testnet: [0x45843aF56Aa1057eD1730cA5Ba3F709833900E77](https://goerli.etherscan.io/address/0x45843af56aa1057ed1730ca5ba3f709833900e77)
+- Sepolia testnet: [0xe28a3A4BFbf285676405cF55354f8b504D844f3c](https://sepolia.etherscan.io/address/0xe28a3a4bfbf285676405cf55354f8b504d844f3c)
 
 ### Interface
 
